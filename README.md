@@ -11,11 +11,11 @@ Panel data itself offers several advantages over cross-sectional or retrospectiv
 ## Published works
 Using these panel data, our team has researched war's influence on individual changes in religious behavior and the self-assessment of religiosity. Publications are listed below:
 1. Karakai, D., & Hatsko, V. (2023, October 4). No atheists in wartime? *Journal of the Analytical Platform ‘Vox Ukraine’*. https://voxukraine.org/en/no-atheists-in-wartime
-2. Karakai, D., & Hatsko, V. (2024). Perspective(s) of R. Inglehart’s Theory of Evolutionary Modernization: Analysis of Change in Religiosity in Ukraine during the War. *In Sociology: Theory, Methods, Marketing (Issue 1, pp. 93–109)*. National Academy of Sciences of Ukraine (Co. LTD Ukrinformnauka) (Publications). https://doi.org/10.15407/sociology2024.01.093
-3. Karakai, D., & Moskotina, R. (2025). Existential upheavals: Tracing war’s immediate effect on individual religiosity in Ukraine. *Social Compass*, *72*(1), 66–85. https://doi.org/10.1177/00377686241311421
+2. Karakai, D., & Hatsko, V. (2024). Perspective(s) of R. Inglehart's Theory of Evolutionary Modernization: Analysis of Change in Religiosity in Ukraine during the War. *In Sociology: Theory, Methods, Marketing (Issue 1, pp. 93–109)*. National Academy of Sciences of Ukraine (Co. LTD Ukrinformnauka) (Publications). https://doi.org/10.15407/sociology2024.01.093
+3. Karakai, D., & Moskotina, R. (2025). Existential upheavals: Tracing war's immediate effect on individual religiosity in Ukraine. *Social Compass*, *72*(1), 66–85. https://doi.org/10.1177/00377686241311421
 
 ## Funding
-The first wave of data collection was supported by a grant from the International Renaissance Foundation and the Embassy of the Kingdom of Sweden in Ukraine, as part of the project ‘Ukraine in European Social Survey 2021’ (signed on 15 November 2021). The second wave of the research received funding from George Washington University within the framework of the PONARS Eurasia project (The Programme on New Approaches to Research and Security in Eurasia). Both waves of the study were conducted at the request of the Kyiv School of Economics.
+The first wave of data collection was supported by a grant from the International Renaissance Foundation and the Embassy of the Kingdom of Sweden in Ukraine, as part of the project "Ukraine in European Social Survey 2021" (signed on 15 November 2021). The second wave of the research received funding from George Washington University within the framework of the PONARS Eurasia project (The Programme on New Approaches to Research and Security in Eurasia). Both waves of the study were conducted at the request of the Kyiv School of Economics.
 
 ## Can I analyse these data online?
 Yes, sure! You can perform an online analysis of variables common to both waves by comparing them [here](https://ruslana-xyz4.shinyapps.io/LIWS_panel/).
