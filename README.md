@@ -18,4 +18,4 @@ Using these panel data, our team has researched war's influence on individual ch
 The first wave of data collection was supported by a grant from the International Renaissance Foundation and the Embassy of the Kingdom of Sweden in Ukraine, as part of the project ‘Ukraine in European Social Survey 2021’ (signed on 15 November 2021). The second wave of the research received funding from George Washington University within the framework of the PONARS Eurasia project (The Programme on New Approaches to Research and Security in Eurasia). Both waves of the study were conducted at the request of the Kyiv School of Economics.
 
 ## Can I analyse these data online?
-Yes, sure. You can perform an online analysis of variables common to both waves by comparing them [here](https://ruslana-xyz4.shinyapps.io/LIWS_panel/).
+Yes, sure! You can perform an online analysis of variables common to both waves by comparing them [here](https://ruslana-xyz4.shinyapps.io/LIWS_panel/).
