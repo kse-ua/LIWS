@@ -14,6 +14,8 @@ Using these panel data, our team has researched war's influence on individual ch
 2. Karakai, D., & Hatsko, V. (2024). Perspective(s) of R. Inglehart's Theory of Evolutionary Modernization: Analysis of Change in Religiosity in Ukraine during the War. *In Sociology: Theory, Methods, Marketing (Issue 1, pp. 93–109)*. National Academy of Sciences of Ukraine (Co. LTD Ukrinformnauka) (Publications) https://doi.org/10.15407/sociology2024.01.093
 3. Karakai, D., & Moskotina, R. (2025). Existential upheavals: Tracing war's immediate effect on individual religiosity in Ukraine. *Social Compass*, *72*(1), 66–85. https://doi.org/10.1177/00377686241311421
 
+If you have any questions about these data or would like to collaborate with us on an article, simply contact us via email: rmoskotina@kse.org.ua
+
 ## Funding
 The first wave of data collection was supported by a grant from the International Renaissance Foundation and the Embassy of the Kingdom of Sweden in Ukraine, as part of the project "Ukraine in European Social Survey 2021" (signed on 15 November 2021). The second wave of research was funded by George Washington University within the framework of the PONARS Eurasia project (The Programme on New Approaches to Research and Security in Eurasia). Both waves of the study were conducted at the request of the Kyiv School of Economics.
 
