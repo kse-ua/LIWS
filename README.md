@@ -1,4 +1,7 @@
-# Life in War Survey (LIWS): Tracking сhange amid the Ukrainian-Russian war 
+# Life in War Survey (LIWS): Tracking сhange amid the Ukrainian-Russian war
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15240524.svg)](https://doi.org/10.5281/zenodo.15240524)  
+**DOI:** [10.5281/zenodo.15240524](https://doi.org/10.5281/zenodo.15240524)
 
 ## A short description of the Life in War Survey
 **Life in War Survey (LIWS)** is a unique two-wave panel survey conducted in Ukraine before and during the full-scale invasion. Data collection was organised by the Kyiv International Institute of Sociology (KIIS). The first wave took place just before the onset of the full-scale Russian invasion – from January 18 to February 8, 2022. The survey sample represents Ukrainian residents aged 15 and over residing in areas under Ukrainian government control as of February 24, 2022. A stratified three-stage random sampling sample was applied. A stratification was done by region (covering 24 Ukrainian oblasts plus the city of Kyiv) and settlement type (urban or rural). In the first stage, electoral precincts were randomly selected within each stratum. In the next step, households were chosen using a random walk method within the selected precincts. Finally, from each household, one eligible respondent was randomly selected. In total, 1531 respondents were surveyed using computer-assisted personal interviewing (CAPI) with the ESS 10 questionnaire. Please visit the [ESS Data Portal](https://ess.sikt.no/en/) for more details on main topics of the ESS 10 survey.
